@@ -251,7 +251,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chiragjain" /></a></p><br><br>
 <br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Sunny Kumar</a></p>
+<p align="right" > Created by <a href="http://supun.traditionalme.life">Sunny Kumar</a></p>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
