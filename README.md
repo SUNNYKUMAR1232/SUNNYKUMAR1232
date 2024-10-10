@@ -149,7 +149,7 @@
 <br>
 
 
-<div  style="display: flex;" >
+<div   align="center" >
 <div>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/sunnykumar23232?ext=heatmap)](https://leetcode.com/sunnykumar23232)
