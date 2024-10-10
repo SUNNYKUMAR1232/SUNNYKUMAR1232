@@ -4,7 +4,7 @@
 <!-- into -->
 <h1 align="center">Hi 👋, I'm Sunny Kumar</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electrical+Engineering+Undergraduate;UI+/+UX+Designer;Full+Stack+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;Full+Stack+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 <p align="center">
 </p>
@@ -50,7 +50,7 @@
 - 💬 Ask me about **Java, Python and NodeJS**
 
 - 📫 How to reach me **sunnykumar23232@gmail.com**
-- 🏫 **Education**: Electrical Engineering at **NIT Rourkela** (National Institute of Technology Rourkela)
+- 🏫 **Education**: Pursuing Electrical Engineering at **NIT Rourkela** (National Institute of Technology Rourkela)
 <br>
 
 <h3 align="left">Connect with me:</h3>
