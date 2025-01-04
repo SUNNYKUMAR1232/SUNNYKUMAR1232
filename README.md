@@ -152,11 +152,11 @@
 <div  style="display:flex;height:400px;" align="center" >
 <div style="height:200px;">
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/sunnykumar23232?ext=heatmap)](https://leetcode.com/sunnykumar23232)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Witcher2?ext=heatmap)](https://leetcode.com/Witcher2)
 </div>
 <div style="height:200px;">
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/sunnykumar23232?ext=contest)](https://leetcode.com/sunnykumar23232)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Witcher2?ext=contest)](https://leetcode.com/Witcher2)
 </div>
 </div>
 </details>
