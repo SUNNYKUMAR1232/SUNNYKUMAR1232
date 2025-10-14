@@ -74,42 +74,6 @@ I'm currently pursuing a B.Tech in Electrical Engineering at the National Instit
 
 ---
 
-### 🌟 Top Repositories
-
-<div align="center">
-
-  <a href="https://github.com/SUNNYKUMAR1232/portfolio">
-    <img src="https://img.shields.io/github/stars/SUNNYKUMAR1232/portfolio?style=social" alt="Stars">
-    <strong>portfolio</strong>
-  </a>
-  <br>
-  <p>My personal portfolio website showcasing my projects, skills, and achievements.</p>
-
-  <a href="https://github.com/SUNNYKUMAR1232/Learning-platform">
-    <img src="https://img.shields.io/github/stars/SUNNYKUMAR1232/Learning-platform?style=social" alt="Stars">
-    <strong>Learning-platform</strong>
-  </a>
-  <br>
-  <p>An interactive platform for learning with resources, quizzes, and user progress tracking.</p>
-
-  <a href="https://github.com/SUNNYKUMAR1232/Redis-Clone">
-    <img src="https://img.shields.io/github/stars/SUNNYKUMAR1232/Redis-Clone?style=social" alt="Stars">
-    <strong>Redis-Clone</strong>
-  </a>
-  <br>
-  <p>High-performance in-memory store supporting concurrent clients and non-blocking I/O.</p>
-
-  <a href="https://github.com/SUNNYKUMAR1232/Auth-API">
-    <img src="https://img.shields.io/github/stars/SUNNYKUMAR1232/Auth-API?style=social" alt="Stars">
-    <strong>Auth-API</strong>
-  </a>
-  <br>
-  <p>Secure authentication API featuring RBAC and OAuth 2.0.</p>
-
-</div>
-
----
-
 ### 🚀 Featured Projects
 
 <details open>
@@ -170,5 +134,7 @@ I am an active competitive programmer with a passion for solving complex algorit
 </div>
 
 <div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUNNYKUMAR1232&custom_title=Sunny's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Sunny's Graph"/>
+
 </div>
