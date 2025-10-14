@@ -27,10 +27,10 @@
 
 [cite_start]I am a Full Stack and Systems Developer specializing in building scalable backend and embedded systems[cite: 9]. [cite_start]I'm currently pursuing a B.Tech in Electrical Engineering at the National Institute of Technology, Rourkela, expecting to graduate in July 2026[cite: 14].
 
-- [cite_start]🚀 I have experience in optimizing concurrency, caching, and database performance, which has led to delivering up to 30% faster backend responses[cite: 10].
-- [cite_start]🛠️ My core tech stack includes **Node.js, TypeScript, C/C++, and Python**[cite: 11].
-- [cite_start]🏗️ I have a strong background in designing and developing **Microservices, RESTful APIs, distributed systems, and secure authentication** mechanisms[cite: 11].
-- [cite_start]🤝 I enjoy collaborative problem-solving and have experience leading small feature teams to ship production-grade software[cite: 12].
+-   [cite_start]🚀 I have experience in optimizing concurrency, caching, and database performance, which has led to delivering up to 30% faster backend responses[cite: 10].
+-   [cite_start]🛠️ My core tech stack includes **Node.js, TypeScript, $C/C++$, and Python**[cite: 11].
+-   [cite_start]🏗️ I have a strong background in designing and developing **Microservices, RESTful APIs, distributed systems, and secure authentication** mechanisms[cite: 11].
+-   [cite_start]🤝 I enjoy collaborative problem-solving and have experience leading small feature teams to ship production-grade software[cite: 12].
 
 ---
 
@@ -90,13 +90,13 @@
 <br>
 [cite_start]A Redis-inspired in-memory data store developed to support concurrent clients and non-blocking I/O[cite: 25].
 <br><br>
-[cite_start]<strong>Technologies Used:</strong> C/C++, Linux, TCP/IP, Data Structures[cite: 22].
+[cite_start]<strong>Technologies Used:</strong> $C/C++$, Linux, TCP/IP, Data Structures[cite: 22].
 <ul>
-  [cite_start]<li>Implemented custom hash tables achieving O(1) average time complexity for lookups and ensuring 99.99% data persistence[cite: 26].</li>
+  [cite_start]<li>Implemented custom hash tables achieving $O(1)$ average time complexity for lookups and ensuring 99.99% data persistence[cite: 26].</li>
   [cite_start]<li>Reduced response latency by 35% through optimized buffer management and advanced threading techniques[cite: 27].</li>
 </ul>
 <p align="left">
-  <a href="[PASTE-YOUR-GITHUB-REPO-LINK-HERE]"><strong>View on GitHub &rarr;</strong></a>
+  <a href="https://github.com/SUNNYKUMAR1232/Redis-Clone"><strong>View on GitHub &rarr;</strong></a>
 </p>
 </details>
 
@@ -111,7 +111,7 @@
   [cite_start]<li>Led the backend module design and implemented schema validation, which decreased authentication errors by 20%[cite: 32].</li>
 </ul>
 <p align="left">
-  <a href="[PASTE-YOUR-GITHUB-REPO-LINK-HERE]"><strong>View on GitHub &rarr;</strong></a>
+  <a href="https://github.com/SUNNYKUMAR1232/Auth-API"><strong>View on GitHub &rarr;</strong></a>
 </p>
 </details>
 
@@ -120,10 +120,11 @@
 ### 🏆 Competitive Programming & Achievements
 
 I am an active competitive programmer with a passion for solving complex algorithmic problems.
-- [cite_start]🌟 **LeetCode Peak Rating:** **1700+** in global contests[cite: 40].
-- [cite_start]💻 **Problems Solved:** Over **800+** algorithmic challenges on various platforms[cite: 41].
-- [cite_start]💡 **Efficiency Gains:** Consistently improve my solutions, achieving an average of **22% better runtime efficiency** and **28% lower memory usage**[cite: 41].
-- [cite_start]🎓 **Certification:** Machine Learning Specialization by Andrew Ng (Coursera)[cite: 39].
+
+-   [cite_start]🌟 **LeetCode Peak Rating:** **1700+** in global contests[cite: 40].
+-   [cite_start]💻 **Problems Solved:** Over **800+** algorithmic challenges on various platforms[cite: 41].
+-   [cite_start]💡 **Efficiency Gains:** Consistently improve my solutions, achieving an average of **22% better runtime efficiency** and **28% lower memory usage**[cite: 41].
+-   [cite_start]🎓 **Certification:** Machine Learning Specialization by Andrew Ng (Coursera)[cite: 39].
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Witcher2?ext=heatmap" alt="LeetCode Stats" width="48%"/>
