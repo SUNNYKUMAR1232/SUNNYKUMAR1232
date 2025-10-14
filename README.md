@@ -25,12 +25,13 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am a Full Stack and Systems Developer specializing in building scalable backend and embedded systems[cite: 9]. [cite_start]I'm currently pursuing a B.Tech in Electrical Engineering at the National Institute of Technology, Rourkela, expecting to graduate in July 2026[cite: 14].
+I am a Full Stack and Systems Developer specializing in building scalable backend and embedded systems.  
+I'm currently pursuing a B.Tech in Electrical Engineering at the National Institute of Technology, Rourkela, expecting to graduate in July 2026.
 
--   [cite_start]🚀 I have experience in optimizing concurrency, caching, and database performance, which has led to delivering up to 30% faster backend responses[cite: 10].
--   [cite_start]🛠️ My core tech stack includes **Node.js, TypeScript, $C/C++$, and Python**[cite: 11].
--   [cite_start]🏗️ I have a strong background in designing and developing **Microservices, RESTful APIs, distributed systems, and secure authentication** mechanisms[cite: 11].
--   [cite_start]🤝 I enjoy collaborative problem-solving and have experience leading small feature teams to ship production-grade software[cite: 12].
+- 🚀 I have experience in optimizing concurrency, caching, and database performance, which has led to delivering up to 30% faster backend responses.
+- 🛠️ My core tech stack includes **Node.js, TypeScript, C/C++, and Python**.
+- 🏗️ I have a strong background in designing and developing **Microservices, RESTful APIs, distributed systems, and secure authentication** mechanisms.
+- 🤝 I enjoy collaborative problem-solving and have experience leading small feature teams to ship production-grade software.
 
 ---
 
@@ -38,46 +39,36 @@
 
 <details open>
   <summary><strong>Languages</strong></summary>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,typescript,javascript,java,go" />
-    </a>
+  <p>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,typescript,javascript,java,go" />
   </p>
 </details>
 
 <details>
   <summary><strong>Backend Development</strong></summary>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,ts,graphql" />
-    </a>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,ts,graphql" />
   </p>
 </details>
 
 <details>
   <summary><strong>Frontend Development</strong></summary>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-    </a>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
   </p>
 </details>
 
 <details>
   <summary><strong>Databases</strong></summary>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" />
-    </a>
+  <p>
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" />
   </p>
 </details>
 
 <details>
   <summary><strong>DevOps & Cloud</strong></summary>
-  <p align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux" />
-    </a>
+  <p>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux" />
   </p>
 </details>
 
@@ -88,14 +79,14 @@
 <details open>
 <summary><strong>High-Performance In-Memory Store (Redis Clone)</strong></summary>
 <br>
-[cite_start]A Redis-inspired in-memory data store developed to support concurrent clients and non-blocking I/O[cite: 25].
-<br><br>
-[cite_start]<strong>Technologies Used:</strong> $C/C++$, Linux, TCP/IP, Data Structures[cite: 22].
+A Redis-inspired in-memory data store developed to support concurrent clients and non-blocking I/O.
+
+**Technologies Used:** C/C++, Linux, TCP/IP, Data Structures
 <ul>
-  [cite_start]<li>Implemented custom hash tables achieving $O(1)$ average time complexity for lookups and ensuring 99.99% data persistence[cite: 26].</li>
-  [cite_start]<li>Reduced response latency by 35% through optimized buffer management and advanced threading techniques[cite: 27].</li>
+  <li>Implemented custom hash tables achieving <b>O(1)</b> average time complexity for lookups and ensuring 99.99% data persistence.</li>
+  <li>Reduced response latency by 35% through optimized buffer management and advanced threading techniques.</li>
 </ul>
-<p align="left">
+<p>
   <a href="https://github.com/SUNNYKUMAR1232/Redis-Clone"><strong>View on GitHub &rarr;</strong></a>
 </p>
 </details>
@@ -103,14 +94,14 @@
 <details>
 <summary><strong>Secure Authentication API (RBAC and OAuth 2.0)</strong></summary>
 <br>
-[cite_start]A secure and robust authentication API featuring Role-Based Access Control (RBAC) across more than 15 protected endpoints[cite: 30].
-<br><br>
-[cite_start]<strong>Technologies Used:</strong> Node.js, TypeScript, Express, Passport, PostgreSQL[cite: 29].
+A secure and robust authentication API featuring Role-Based Access Control (RBAC) across more than 15 protected endpoints.
+
+**Technologies Used:** Node.js, TypeScript, Express, Passport, PostgreSQL
 <ul>
-  [cite_start]<li>Integrated OAuth 2.0 for standardized identity verification with providers like Google and GitHub[cite: 31].</li>
-  [cite_start]<li>Led the backend module design and implemented schema validation, which decreased authentication errors by 20%[cite: 32].</li>
+  <li>Integrated OAuth 2.0 for standardized identity verification with providers like Google and GitHub.</li>
+  <li>Led the backend module design and implemented schema validation, which decreased authentication errors by 20%.</li>
 </ul>
-<p align="left">
+<p>
   <a href="https://github.com/SUNNYKUMAR1232/Auth-API"><strong>View on GitHub &rarr;</strong></a>
 </p>
 </details>
@@ -121,10 +112,10 @@
 
 I am an active competitive programmer with a passion for solving complex algorithmic problems.
 
--   [cite_start]🌟 **LeetCode Peak Rating:** **1700+** in global contests[cite: 40].
--   [cite_start]💻 **Problems Solved:** Over **800+** algorithmic challenges on various platforms[cite: 41].
--   [cite_start]💡 **Efficiency Gains:** Consistently improve my solutions, achieving an average of **22% better runtime efficiency** and **28% lower memory usage**[cite: 41].
--   [cite_start]🎓 **Certification:** Machine Learning Specialization by Andrew Ng (Coursera)[cite: 39].
+- 🌟 **LeetCode Peak Rating:** **1700+** in global contests
+- 💻 **Problems Solved:** Over **800+** algorithmic challenges on various platforms
+- 💡 **Efficiency Gains:** Consistently improve my solutions, achieving an average of **22% better runtime efficiency** and **28% lower memory usage**
+- 🎓 **Certification:** Machine Learning Specialization by Andrew Ng (Coursera)
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Witcher2?ext=heatmap" alt="LeetCode Stats" width="48%"/>
@@ -144,6 +135,6 @@ I am an active competitive programmer with a passion for solving complex algorit
 
 <div align="center">
 
-![Sunny's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SUNNYKUMAR1232&custom_title=Sunny's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SUNNYKUMAR1232&custom_title=Sunny's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Sunny's Graph"/>
 
 </div>
