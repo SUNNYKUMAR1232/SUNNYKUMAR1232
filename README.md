@@ -19,7 +19,6 @@
 
 <a href="https://www.linkedin.com/in/sunny-kumar-620s"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=33FF33&labelColor=0D1117" alt="LinkedIn" /></a>
 <a href="https://github.com/SUNNYKUMAR1232"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=33FF33&labelColor=0D1117" alt="GitHub" /></a>
-<!-- <a href="https://codolio.com/profile/Sunny"><img src="https://img.shields.io/badge/Codolio-0D1117?style=flat-square&logo=codio&logoColor=33FF33&labelColor=0D1117" alt="Codolio" /></a> -->
 <a href="mailto:sunnykumar23232@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=33FF33&labelColor=0D1117" alt="Email" /></a>
 
 </div>
