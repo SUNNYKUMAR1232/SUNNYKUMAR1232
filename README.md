@@ -39,26 +39,6 @@
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
----
-
-## `$ cat about.txt`
-
-```
-┌───────────────────────────────────────────────────────────────────────────┐
-│                                                                           │
-│  I build scalable backend and embedded systems.                           │
-│                                                                           │
-│  ▪ Optimized concurrency, caching and DB performance to deliver up to     │
-│    30% faster backend responses.                                          │
-│                                                                           │
-│  ▪ Design and ship microservices, RESTful APIs, distributed systems and   │
-│    secure authentication mechanisms.                                      │
-│                                                                           │
-│  ▪ Led small feature teams to ship production-grade software; I like      │
-│    collaborative problem-solving more than solo heroics.                  │
-│                                                                           │
-└───────────────────────────────────────────────────────────────────────────┘
-```
 
 ---
 
