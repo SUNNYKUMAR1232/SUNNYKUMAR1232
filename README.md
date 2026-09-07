@@ -32,7 +32,7 @@
 ║   ▸ role        Full Stack & Systems Developer                            ║
 ║   ▸ education   B.Tech, Electrical Engineering — NIT Rourkela             ║
 ║   ▸ graduating  July 2026                                                 ║
-║   ▸ focus       scalable backends · embedded systems · distributed infra  ║
+║   ▸ focus       scalable backends ·fronted . embedded systems . infra     ║  
 ║   ▸ core stack  Node.js · TypeScript · C/C++ · Python                     ║
 ║   ▸ open to     SDE roles · internships · open-source collaboration       ║
 ║                                                                           ║
