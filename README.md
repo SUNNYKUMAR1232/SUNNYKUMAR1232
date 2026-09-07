@@ -19,7 +19,7 @@
 
 <a href="https://www.linkedin.com/in/sunny-kumar-620s"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=33FF33&labelColor=0D1117" alt="LinkedIn" /></a>
 <a href="https://github.com/SUNNYKUMAR1232"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=33FF33&labelColor=0D1117" alt="GitHub" /></a>
-<a href="https://codolio.com/profile/Sunny"><img src="https://img.shields.io/badge/Codolio-0D1117?style=flat-square&logo=codio&logoColor=33FF33&labelColor=0D1117" alt="Codolio" /></a>
+<!-- <a href="https://codolio.com/profile/Sunny"><img src="https://img.shields.io/badge/Codolio-0D1117?style=flat-square&logo=codio&logoColor=33FF33&labelColor=0D1117" alt="Codolio" /></a> -->
 <a href="mailto:sunnykumar23232@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=33FF33&labelColor=0D1117" alt="Email" /></a>
 
 </div>
@@ -96,27 +96,6 @@ LANGUAGES
 ---
 
 ## `$ ls -t ~/projects`
-
-```
-╭─────────────────────────────────────────────────────────────────────────╮
-│  [01]  STUDY ASSISTANT  ·  notes → flashcards + quiz                    │
-├─────────────────────────────────────────────────────────────────────────┤
-│  stack   Next.js · TypeScript · Groq LLM · Tailwind                     │
-│                                                                         │
-│  Paste lecture notes or a textbook passage and get back a deck of       │
-│  flashcards and a multiple-choice quiz in about five seconds.           │
-│                                                                         │
-│   › quiz loop that retests only the questions you missed                │
-│   › request-id guard + AbortController — newest response always wins    │
-│   › localStorage cache: identical input is never billed twice           │
-│   › live health indicator surfaces a bad API key before you type        │
-╰─────────────────────────────────────────────────────────────────────────╯
-```
-
-<div align="right">
-  <a href="https://github.com/SUNNYKUMAR1232/Study-assistant"><b>source &rarr;</b></a>
-  &nbsp;&nbsp;<a href="https://study-assistant-xi-ten.vercel.app"><b>live demo &rarr;</b></a>
-</div>
 
 ```
 ╭─────────────────────────────────────────────────────────────────────────╮
