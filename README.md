@@ -214,8 +214,11 @@ LANGUAGES
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
+<div align="center">
+  <!-- <img src="https://leetcard.jacoblin.cool/Witcher2?ext=heatmap&theme=dark&font=Fira_Code" width="48%" alt="LeetCode heatmap" /> -->
+  <img src="https://leetcard.jacoblin.cool/Witcher2?ext=contest&theme=dark&font=Fira_Code" width="48%" alt="LeetCode contest stats" />
+</div>
 
----
 
 ## `$ gh stats --user SUNNYKUMAR1232`
 
